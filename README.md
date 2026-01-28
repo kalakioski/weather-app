@@ -16,7 +16,11 @@ Open API OpenWeather
 
 ## Installation
 
-Requires an env file in the backend folder
+Requires an env file in the backend folder with the API key
+
+```
+OPENWEATHER_API_KEY=yourkeyhere
+```
 
 Backend:
 
